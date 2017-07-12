@@ -1,4 +1,4 @@
-# name: discourse-chat-integration
+# name: discourse-chat-integration 
 # about: This plugin integrates discourse with a number of chat providers
 # version: 0.1
 # url: https://github.com/discourse/discourse-chat-integration
